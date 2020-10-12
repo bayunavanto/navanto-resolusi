@@ -2,3 +2,4 @@ Rencana baru
 -rencana resolusi bisa git
 -belajar git
 -sukse git
+-tambah baris baru
