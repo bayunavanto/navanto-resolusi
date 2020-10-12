@@ -3,5 +3,6 @@ Rencana baru
 -belajar git
 -sukse git
 -tambah baris baru
-  #fitur 1
-- barisan
+-menambah rencana baru
+  #ambil data
+
