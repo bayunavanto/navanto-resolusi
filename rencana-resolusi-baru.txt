@@ -4,3 +4,4 @@ Rencana baru
 -sukse git
 -tambah baris baru
   #fitur 1
+- barisan
